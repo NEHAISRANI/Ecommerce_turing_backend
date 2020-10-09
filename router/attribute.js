@@ -1,6 +1,7 @@
 const express = require('express');
 const attribute = express();
 const attributeDb = require("../model/attributeDB")
+const knex = require("../dbturing")
 
 //1
 
