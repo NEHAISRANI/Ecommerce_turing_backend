@@ -1,0 +1,30 @@
+{
+  "name": "e-commerce-backend",
+  "version": "1.0.0",
+  "description": "i have made aa backend of an e-commerce website using express framework of NodeJS.Here's the swaggerr,but you need to pass the test for it first here.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zandoan/turing-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zandoan/turing-backend/issues"
+  },
+  "homepage": "https://github.com/zandoan/turing-backend#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "json-web-token": "^3.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "node": "^14.8.0"
+  }
+}
