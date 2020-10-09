@@ -19,8 +19,8 @@ app.use(product)
 const customer=require("./router/customer")
 app.use(customer)
 
-const orders=require("./router/orders")
-app.use(orders)
+// const orders=require("./router/orders")
+// app.use(orders)
 
 const server = app.listen(3600, function(){     
   console.log("listening on port %s...", server.address().port);
