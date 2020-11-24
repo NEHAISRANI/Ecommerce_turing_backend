@@ -14,12 +14,13 @@
  MVC = Model View Controler
 
 ## In this project i used node.js
-1. Express.js
+1.Express.js
 
 2.MYSQL database
 
 3.JWT (Json Web Token)
 
 4. Rendom string
+
 5. Body parser
 
