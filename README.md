@@ -3,9 +3,13 @@
 
 ## In this project i used crud method.
  GET
+ 
  POST
+ 
  PUT
+ 
  DELETE
+ 
  In this project i used MVC
  MVC = Model View Controler
 
