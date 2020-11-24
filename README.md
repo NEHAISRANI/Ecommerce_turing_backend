@@ -15,18 +15,11 @@
 
 ## In this project i used node.js
 1. Express.js
+
 2.MYSQL database
-JWT (Json Web Token)
-Rendom string
-Body parser
-About
-No description, website, or topics provided.
-Resources
- Readme
-Releases
-No releases published
-Packages
-No packages published 
-Languages
-JavaScript
-100.0%
+
+3.JWT (Json Web Token)
+
+4. Rendom string
+5. Body parser
+
