@@ -20,7 +20,7 @@
 
 3.JWT (Json Web Token)
 
-4. Rendom string
+4.Rendom string
 
-5. Body parser
+5.Body parser
 
