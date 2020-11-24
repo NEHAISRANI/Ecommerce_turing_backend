@@ -14,8 +14,8 @@
  MVC = Model View Controler
 
 ## In this project i used node.js
-Express.js
-mysql database
+1. Express.js
+2.MYSQL database
 JWT (Json Web Token)
 Rendom string
 Body parser
